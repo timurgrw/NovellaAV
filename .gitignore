@@ -1,0 +1,12 @@
+﻿# Ren'Py
+*.rpyc
+*.rpyb
+cache/
+saves/
+gui.rpyc
+options.rpyc
+screens.rpyc
+bytecode-*.rpyb
+
+# Editor
+.vscode/
